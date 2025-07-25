@@ -39,6 +39,10 @@ Download and install Python from [python.org](https://www.python.org/downloads/)
 ```bash
 python project.py
 
+🧪 Sample UI Preview
+![Billing System GUI Screenshot](image.png)
+
+
 🧑‍💻 Developer
 Anuj Kumar Jha
 
